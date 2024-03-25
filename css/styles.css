@@ -1,0 +1,21 @@
+body {
+    background-color: #f5f7fa;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+h1 {
+    margin-bottom: 20px; /* Add space below h2 */
+}
+
+p {
+    margin-top: 20px; /* Add space above p tag */
+}
+
+#studentId {
+    visibility: hidden;
+}
